@@ -1,0 +1,16 @@
+{
+  "posts": [
+    {
+      "title": "Stars",
+      "description": "Stars Looks really beautifull",
+      "author": "Maradona",
+      "image": "Stars",
+      "dated": "2023-06-14T10:58:38.737Z",
+      "id": 1
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
